@@ -1,0 +1,107 @@
+﻿Horas_Trabaja,Becario,carrera,semestre,promedio,Personas_Cargo,Genero,Edad
+0,Sí,Gestión de empresas,4,3,No,Femenino,21
+24,Sí,ing informatica,5,3.2,No,Masculino,21
+0,No,Construcciones civiles,4,3.6,Sí,Femenino,24
+48,No,Ingeniería informática ,2,3.8,No,Masculino,21
+0,Sí,Tecnología en química industrial y de laboratorio ,2,3.8,No,Femenino,20
+0,No,Ingeniería informática ,2,4,No,Masculino,18
+56,No,Civil,10,4,No,Masculino,36
+0,No,Deportes ,8,4,No,Masculino,23
+8,No,Deportes ,3,4,No,Femenino,20
+0,Sí,Tecnología industrial ,2,4,No,Femenino,18
+0,Sí,Contaduría ,1,4,No,Masculino,17
+0,No,Comunicación ,1,4,No,Masculino,20
+44,Sí,Comunicación Audiovisual,6,4.1,No,Femenino,23
+48,No,Contaduría pública ,2,4.1,No,Femenino,24
+0,Sí,TECNOLOGIA EN SEGURIDAD Y SALUD EN EL TRABAJO,4,4.2,No,Femenino,19
+30,No,Profesional en deporte,3,4.3,No,Femenino,23
+0,Sí,Ingeniería civil ,6,4.5,No,Masculino,20
+40,No,Contaduría ,6,3.2,Sí,Femenino,29
+0,Sí,Informática ,4,3.2,No,Masculino,23
+0,No,Informática ,1,3.2,No,Masculino,18
+0,No,Ingeniería Informática,4,3.3,No,Masculino,20
+0,No,Ingeniería en productividad ,4,3.4,No,Masculino,31
+48,No,Civil ,4,3.4,No,Masculino,22
+48,No,Ingeniera en seguridad y salud en el trabajo ,5,3.6,No,Femenino,22
+40,No,Instrumentacion y control,8,3.6,No,Masculino,29
+24,No,Civil ,5,3.6,No,Masculino,22
+48,No,Instrumentacion y control ,9,3.7,Sí,Masculino,42
+24,No,Ingeniería Informática,7,3.7,No,Femenino,24
+42,No,Ingeniería informática ,5,3.7,Sí,Masculino,39
+0,No,Ingeniería de productividad y calidad ,4,3.7,No,Femenino,20
+48,No,Administración pública ,4,3.7,Sí,Femenino,37
+4,Sí,Tecnología industrial ,2,3.7,Sí,Femenino,25
+50,No,Ingeniería informática ,2,3.7,No,Masculino,18
+0,Sí,Ingeniería informática ,6,3.8,No,Masculino,20
+0,Sí,Ingenieria informatica,6,3.8,No,Masculino,20
+0,No,Ingeniería informática ,5,3.8,No,Masculino,22
+8,No,Civil,5,3.8,No,Masculino,20
+66,No,Tecnología en construcción civil ,5,3.8,No,Masculino,26
+0,No,Ingeniería en sistemas ,4,3.8,No,Masculino,21
+24,No,Comunicación ,3,3.8,No,Masculino,19
+0,Sí,Civil ,1,3.8,No,Masculino,18
+48,No,Ing. Productividad y Calidad ,8,3.9,No,Femenino,26
+0,Sí,Deportes,6,3.9,No,Femenino,26
+24,Sí,Deportes ,6,3.9,No,Masculino,22
+0,Sí,Ingeniería Informática ,4,3.9,No,Masculino,18
+0,No,Tecnología industrial ,4,3.9,No,Masculino,21
+0,Sí,Ingeniería Informática,4,3.9,No,Masculino,18
+15,No,Ingenieria Informática ,4,3.9,No,Masculino,20
+0,No,Informática ,3,3.9,No,Masculino,19
+0,No,Ing en informática ,3,3.9,No,Masculino,19
+48,No,Construcciones civiles ,2,3.9,Sí,Femenino,23
+0,No,Deportes,1,3.9,No,Masculino,19
+0,No,Comunicación ,5,4,No,Masculino,20
+22,Sí,Producción audiovisual ,2,4,No,Masculino,20
+10,No,Deportes ,7,4.1,No,Masculino,21
+0,No,Educación física ,6,4.1,No,Femenino,22
+13,Sí,Deportes ,6,4.1,No,Femenino,22
+0,No,Productividad ,5,4.1,No,Femenino,20
+0,No,Productividad ,5,4.1,No,Femenino,23
+0,Sí,Ing informatica,4,4.1,No,Masculino,19
+0,Sí,Ingeniería Informática,4,4.1,No,Femenino,19
+8,No,Educación física ,4,4.1,No,Masculino,25
+48,No,Gestión de empresas ,4,4.1,No,Femenino,21
+0,No,Profesional en deportes,3,4.1,No,Masculino,22
+50,No,Contaduría pública ,10,4.2,No,Masculino,28
+22,No,Deporte,7,4.2,No,Masculino,22
+0,No,Comunicación ,6,4.2,No,Femenino,21
+0,No,Educación física ,6,4.2,No,Masculino,23
+0,No,Ingeniería informática ,4,4.2,No,Prefiero no decirlo,21
+48,No,Comunicación ,4,4.2,No,Masculino,24
+0,No,Seguridad y salud,3,4.2,No,Masculino,19
+0,Sí,Seguridad y salud ,3,4.2,No,Masculino,19
+12,No,Tecnología en produccion de eventos ,2,4.2,No,Femenino,20
+12,No,Comunicación ,1,4.2,No,Femenino,17
+0,Sí,Ingeniería Civil ,6,4.3,No,Masculino,21
+0,No,Comunicación ,5,4.3,No,Masculino,22
+15,No,Comunicación ,5,4.3,No,Masculino,20
+6,No,Civil,4,4.3,No,Femenino,19
+48,No,Comunicación ,4,4.3,No,Masculino,20
+10,No,Ingenieria civil,4,4.4,Sí,Femenino,24
+0,No,Contaduría pública ,2,4.4,No,Femenino,19
+0,No,Tecnología industrial ,2,4.4,No,Femenino,18
+0,No,Tecnología industrial ,2,4.4,No,Femenino,19
+0,No,Deportes ,1,4.4,No,Femenino,23
+0,No,Comunicación ,5,4.5,No,Femenino,20
+0,Sí,Civil,4,4.5,No,Femenino,19
+12,No,Comunicación ,4,4.5,No,Femenino,19
+15,No,Deportes ,4,4.5,No,Femenino,26
+10,No,Turismo,1,4.5,No,Femenino,20
+0,Sí,Profesional En Deporte,6,4.6,No,Masculino,21
+8,No,Profesional en deporte,6,4.6,No,Masculino,24
+0,No,Deportes ,5,4.6,No,Masculino,26
+45,No,Tecnología en sistematización de datos,5,4.6,No,Femenino,19
+0,No,Comunicación ,4,4.6,No,Femenino,19
+0,No,Comunicación ,4,4.6,No,Masculino,20
+0,No,Comunicación ,4,4.6,No,Femenino,19
+48,Sí,Comunicación ,4,4.6,No,Femenino,19
+48,No,Tecnología en construcciones civiles ,4,4.6,Sí,Masculino,36
+0,No,Comunicación ,1,4.6,No,Femenino,28
+12,No,Profesional en deporte,6,4.7,No,Masculino,20
+0,No,Deportes ,1,4.7,No,Masculino,19
+0,Sí,Deportes ,1,4.7,No,Femenino,25
+20,No,Comunicación ,1,4.7,No,Femenino,23
+18,No,Masoterapia,2,4.8,No,Femenino,24
+0,No,Comunicación ,1,4.8,No,Femenino,21
+
